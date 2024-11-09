@@ -1,0 +1,15 @@
+Student 1 :  Physics = 25, Chemistry = 656465, Maths = 545, Total :- 657035, Percentage :- 219012
+
+
+Student 2 :  Physics = 454, Chemistry = 4, Maths = 44, Total :- 502, Percentage :- 167.333
+
+
+Student 3 :  Physics = 4, Chemistry = 4, Maths = 4, Total :- 12, Percentage :- 4
+
+
+Student 4 :  Physics = 4, Chemistry = 47, Maths = 452, Total :- 503, Percentage :- 167.667
+
+
+Student 5 :  Physics = 4, Chemistry = 54, Maths = 4, Total :- 62, Percentage :- 20.6667
+
+
